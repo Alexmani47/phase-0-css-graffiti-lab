@@ -1,1 +1,25 @@
-/* write your override styles here */
+#wall .tag-1 {
+    display: none;
+    margin: 0%;
+    padding: 0%;
+    background: none;
+    position: unset;
+    mask-image: none;
+    height: auto;
+    border-radius: 0%;
+    border: 0cap;
+}
+textarea {
+    resize: none;
+
+}
+img {
+    max-width: 0%;
+    height: 0%;
+
+}
+button {
+    padding: 0%;
+    cursor: alias;
+    font-size: 0%;
+}
